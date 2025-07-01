@@ -15,6 +15,13 @@ This project performs real-time **object detection and segmentation** on a **loc
 
 ---
 
+## 📽️ Demo
+
+![Demo Screenshot](app.png)  
+
+[Watch the demo on YouTube](https://youtu.be/1cS_W_e1Nf4)
+
+
 ## 🛠️ Install Python Dependencies
 
 First, it is recommended to create a virtual environment:
